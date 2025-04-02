@@ -51,6 +51,12 @@ export const SignupForm = () => {
     },
   });
 
+
+
+
+  
+  //full stack
+
   return (
     <div>
       <form onSubmit={formik.handleSubmit} style={{ margin: "30px" }}>
